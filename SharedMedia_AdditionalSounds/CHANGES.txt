@@ -1,6 +1,0 @@
-Updated TOC
-Initial Release
-Fixes for API Changes from 9.0.5
-Added Variables for future Auto-Updating Client 
-Deleted dedicated License File "GPL.txt"
-Further Improvements and a general overhaul coming soon!
